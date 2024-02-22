@@ -1,0 +1,50 @@
+id: I8E5FEE8D
+ocr_import_info:
+  source: bdrc
+  software: google_books
+  batch: batch_2022
+  expected_default_language: bo
+  bdrc_scan_id: W1KG6113
+  ocr_info:
+    timestamp: 02/23/24T03:19:30
+    html: html.zip
+    txt: txt.zip
+    images: images.zip
+  op_import_options: {}
+  op_import_version: 0.11.9
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2024-02-22 21:49:30.956277+00:00
+last_modified: 2024-02-22 21:49:30.956281+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W1KG6113
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW1KG6113
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: lokesh chandra batch 1
+  languages:
+  - en
+  - sa
+  - bo
+statistics:
+  ocr_word_mean_confidence_index: 0.9532348615683524
+  ocr_word_median_confidence_index: 0.99
+bases:
+  I1KG6115:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG6115
+      total_pages: 896
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I1KG6115.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99
+      ocr_word_mean_confidence_index: 0.9532348615683524
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
